@@ -15,8 +15,9 @@ class Widget{
          */
         const container = document.createElement("div");
         
-        var position = document.querySelector('script[data-id="Pxwqwer"][data-position]').getAttribute('data-position');
+        var position = document.querySelector('script[data-id="Pxwqwer"][data-position]')?.getAttribute('data-position');
         console.log(position);
+        if(position){
         if(position == "top"){
         container.style.position = "fixed";
         container.style.display = "flex";
@@ -33,6 +34,16 @@ class Widget{
         container.style.right = "0";
         container.style.display = "flex";
         container.style.justifyContent = "center";
+        container.style.alignItems = "center";
+        }
+        }
+        else{
+            container.style.position = "fixed";
+        container.style.display = "flex";
+        container.style.justifyContent = "center";
+        container.style.top = "0";
+        container.style.left = "0";
+        container.style.right = "0";
         container.style.alignItems = "center";
         }
     
