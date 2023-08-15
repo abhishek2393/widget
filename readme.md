@@ -1,6 +1,4 @@
-🚀 Exciting news! I have a fantastic project to share with all you web developers out there! 🌐✨
-
-Introducing the super flexible and sleek widget - Hellobar! 🎉 Built with HTML, CSS, Vanilla JS, and powered by Vite, this single-file script tag can be seamlessly imported into any website or app. 😍😱
+ 🚀 Introducing the super flexible and sleek widget - Hellobar! 🎉 Built with HTML, CSS, Vanilla JS, and powered by Vite, this single-file script tag can be seamlessly imported into any website or app. 😍😱
 
 But here's the best part: I've created a foolproof readme.md file that guides you through the installation process and explains every command you need to know to get started on this project. 💯💻
 
