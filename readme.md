@@ -35,9 +35,13 @@ These handy attributes will define exactly where your widget shines!
     data-color="#fff"
     ></script>
 
-data-position - where you want widget to appear on the page (top, mid-left, mid-right, bottom)
-data-theme- background color of widget (black, white) etc depending upon the website theme
-data-color - color of text in widget (black, white) etc depending upon the website theme
+data-position - dictate where you want widget to appear (top, mid-left, mid-right, bottom)
+
+data-theme- personalize background color of widget (black/white), depending on your website's theme
+
+data-color - customize text color in the widget (black/white), to match your website's aesthetics
+
+
 
 So what are you waiting for? Start exploring the endless possibilities of Hellobar today! 💪💼
 
