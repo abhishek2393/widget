@@ -28,18 +28,11 @@ For example:
 
 These handy attributes will define exactly where your widget shines!
 
-<script type="module" src="/main.js" 
-    data-position="mid-right" 
-    data-id="Pxwqwer"
-    data-theme="black"
-    data-color="#fff"
-    ></script>
+>  <script type="module" src="/main.js"  data-position="mid-right" data-id="Pxwqwer"data-theme="black" data-color="#fff"></script>
 
-data-position - dictate where you want widget to appear (top, mid-left, mid-right, bottom)
-
-data-theme- personalize background color of widget (black/white), depending on your website's theme
-
-data-color - customize text color in the widget (black/white), to match your website's aesthetics
+*  data-position - dictate where you want widget to appear (top, mid-left, mid-right, bottom)
+*  data-theme- personalize background color of widget (black/white), depending on your website's theme
+*  data-color - customize text color in the widget (black/white), to match your website's aesthetics
 
 
 
