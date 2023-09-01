@@ -28,8 +28,16 @@ For example:
 
 These handy attributes will define exactly where your widget shines!
 
+<script type="module" src="/main.js" 
+    data-position="mid-right" 
+    data-id="Pxwqwer"
+    data-theme="black"
+    data-color="#fff"
+    ></script>
+
+data-position - where you want widget to appear on the page (top, mid-left, mid-right, bottom)
+data-theme- background color of widget (black, white) etc depending upon the website theme
+data-color - color of text in widget (black, white) etc depending upon the website theme
+
 So what are you waiting for? Start exploring the endless possibilities of Hellobar today! 💪💼
 
-If you found this guide helpful, give it a thumbs up 👍 and don't forget to share it with your fellow coding wizards. 🙌
-
-#webdevelopment #widgetlove #codingmagic
